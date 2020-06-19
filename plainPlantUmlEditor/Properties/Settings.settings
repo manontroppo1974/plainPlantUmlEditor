@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="plainPlantUmlEditor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="formSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">1280, 720</Value>
+    </Setting>
+    <Setting Name="textBoxSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">640, 681</Value>
+    </Setting>
+    <Setting Name="formPosition" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="lastDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
