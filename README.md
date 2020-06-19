@@ -9,3 +9,6 @@
 
 これだけ
 ハイライト機能など一切なし
+
+.exe と同じフォルダに plantuml.jar を入れて使用してください  
+https://plantuml.com/ja/download
